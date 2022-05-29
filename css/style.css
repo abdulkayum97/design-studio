@@ -1,0 +1,221 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #161616;
+}
+
+p {
+    color: #545454;
+}
+
+header {
+    padding: 50px 5% 70px;
+}
+
+header .left {
+    width: 50%;
+    float: left;
+}
+
+header .right {
+    width: 50%;
+    float: right;
+    text-align: right;
+}
+
+.banner {
+    padding: 0 10%;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.about {
+    width: 80%;
+    margin: auto;
+    padding: 100px 0;
+    overflow: hidden;
+}
+
+.about .left {
+    width: 40%;
+    float: left;
+    padding-right: 10%;
+}
+
+.about .left h2 {}
+
+.about .left p {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.about .right {
+    width: 50%;
+    float: right;
+}
+
+.about .right img {
+    width: 100%;
+}
+
+.challenge {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.challenge h2 {}
+
+.challenge p {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.challenge div {
+    width: 50%;
+    float: left;
+}
+
+
+.chl_img {
+    width: 80%;
+    overflow: hidden;
+    margin: 100px 10%;
+}
+
+.chl_img div {
+    width: 32%;
+    float: left;
+}
+
+.chl_img .center {
+    margin: 0 2%;
+}
+
+.chl_img img {
+    width: 100%;
+}
+
+
+.approach {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 0 0 100px 0;
+}
+
+.approach h2 {}
+
+.approach p {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.approach div {
+    width: 50%;
+    float: left;
+}
+
+.appr_img {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.appr_img .left {
+    width: 49%;
+    margin-right: 2%;
+    float: left;
+}
+
+.appr_img .right {
+    width: 49%;
+    float: right;
+}
+
+.appr_img div img {
+    width: 100%;
+}
+
+.appr_img .full_img {
+    margin-top: 30px;
+    overflow: hidden;
+}
+
+.button4img {
+    text-align: center;
+    margin: 100px;
+}
+
+.button4img button {
+    padding: 15px 20px;
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+footer {
+    width: 70%;
+    margin: 100px 15% 150px 15%;
+    overflow: hidden;
+}
+
+footer .left {
+    width: 33%;
+    float: left;
+}
+
+footer .left h4 {}
+
+footer .left p {
+    padding: 5px 0px;
+
+}
+
+footer .left a {
+    color: #999999;
+    text-decoration: none;
+    padding: 10px 0px;
+}
+
+
+footer .center {
+    width: 33%;
+    float: left;
+}
+
+footer .center ul {
+    list-style: none;
+}
+
+footer .center ul li {
+    padding: 5px 0px;
+
+}
+
+footer .center ul li a {
+    color: #999999;
+    text-decoration: none;
+}
+
+footer .right {
+    width: 34%;
+    float: left;
+}
+
+footer .right ul {
+    list-style: none;
+}
+
+footer .right ul li {
+    padding: 5px 0px;
+
+}
+
+footer .right ul li a {
+    color: #999999;
+    text-decoration: none;
+
+}
